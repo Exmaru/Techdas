@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/TechDas
+/packages
+/TechDas.DTO/bin/Debug/netstandard2.0
+/TechDas.DTO/obj
+/TechDas.Web
+/TechDas.WebSocket/bin/Debug
+/TechDas.WebSocket/obj/Debug
